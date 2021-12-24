@@ -1,6 +1,7 @@
 # KnowledgeBytes
 Just some Knowledge Bits and Pieces\
 - [Dec 24 2021 Solstice Duration](#Dec242021SolsticeDuration)
+- dsds\
 License: [Creative Commons: Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)](https://creativecommons.org/licenses/by-nc/3.0/de/)
 
 # <a name="Dec242021SolsticeDuration"></a>Dec 24 2021 Solstice Duration
